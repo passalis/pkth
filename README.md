@@ -21,4 +21,6 @@ year = {2020}
 }
 </pre>
 
+This work was supported by the European Union's Horizon 2020 Research and Innovation Program (OpenDR) under Grant 871449. This publication reflects the authors' views only. The European Commission is not responsible for any use that may be made of the information it contains.
+
 
