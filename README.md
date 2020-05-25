@@ -1,6 +1,6 @@
 # Heterogeneous Knowledge Distillation using Information Flow Modeling
 
-In this repository we provide an implementation of the Heterogeneous Knowledge Distillation approach using Information Flow Modeling, as described in [our paper](TODO), which is capable of transferring the knowledge between DL models by matching the information flow between multiple layers.
+In this repository we provide an implementation of the Heterogeneous Knowledge Distillation approach using Information Flow Modeling, as described in [our paper](https://arxiv.org/abs/2005.00727), which is capable of transferring the knowledge between DL models by matching the information flow between multiple layers.
 
 To reproduce the results reported in our paper:
 1. Train and evaluate the baselines model ([exp0_train_base.py](cifar10/exp0_train_base.py))
@@ -21,7 +21,7 @@ year = {2020}
 }
 </pre>
 
-  This work was supported by the European Union's Horizon 2020 Research and Innovation Program ([https://opendr.eu](OpenDR Project)) under Grant 871449. This publication reflects the authors' views only. The European Commission is not responsible for any use that may be made of the information it contains.
+  This work was supported by the European Union's Horizon 2020 Research and Innovation Program ([OpenDR Project](https://opendr.eu) ) under Grant 871449. This publication reflects the authors' views only. The European Commission is not responsible for any use that may be made of the information it contains.
   
 <center>
 <img src="https://opendr.csd.auth.gr/wp-content/uploads/2019/12/Flag_of_Europe-300x200.png" height="50px" />
