@@ -21,7 +21,7 @@ year = {2020}
 }
 </pre>
 
-  This work was supported by the European Union's Horizon 2020 Research and Innovation Program ([opendr.eu](OpenDR Project)) under Grant 871449. This publication reflects the authors' views only. The European Commission is not responsible for any use that may be made of the information it contains.
+  This work was supported by the European Union's Horizon 2020 Research and Innovation Program ([https://opendr.eu](OpenDR Project)) under Grant 871449. This publication reflects the authors' views only. The European Commission is not responsible for any use that may be made of the information it contains.
   
 <center>
 <img src="https://opendr.csd.auth.gr/wp-content/uploads/2019/12/Flag_of_Europe-300x200.png" height="50px" />
